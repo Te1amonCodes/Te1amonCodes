@@ -2,6 +2,8 @@ Hello there! My name is Te1amon (Te1amonCodes) and I code in Java, Kotlin, and R
 
 Pronouns: He/Him (Nothing Special)
 
+and yes i'm 13
+
 What I'm working on:
 
 GavClient b2 - Purchase at https://lavashop.sell.app / https://discord.gg/r9c67yY3aK
