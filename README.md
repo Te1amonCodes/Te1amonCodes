@@ -3,5 +3,7 @@ Hello there! My name is Te1amon (Te1amonCodes) and I code in Java, Kotlin, and R
 Pronouns: He/Him (Nothing Special)
 
 What I'm working on:
+
 GavClient b2
+
 Reflex v3.0.0
