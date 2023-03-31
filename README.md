@@ -6,6 +6,6 @@ and yes i'm 13
 
 What I'm working on:
 
-GavClient b2 - Purchase at https://lavashop.sell.app / https://discord.gg/r9c67yY3aK
+GavClient b2 - Still working on, but soon you will be able to purchase at https://lavashop.sell.app / https://discord.gg/r9c67yY3aK
 
 Reflex v3.0.0 - Still working on rn, not available for purchase at the moment.
