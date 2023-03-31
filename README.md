@@ -4,6 +4,6 @@ Pronouns: He/Him (Nothing Special)
 
 What I'm working on:
 
-GavClient b2
+GavClient b2 - Purchase at lavashop.sell.app / discord.gg/r9c67yY3aK
 
-Reflex v3.0.0
+Reflex v3.0.0 - Still working on rn, not available for purchase at the moment.
